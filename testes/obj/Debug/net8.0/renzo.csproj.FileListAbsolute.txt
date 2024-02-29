@@ -1,0 +1,14 @@
+/home/renzo/Programação/csharp/testes/bin/Debug/net8.0/renzo
+/home/renzo/Programação/csharp/testes/bin/Debug/net8.0/renzo.deps.json
+/home/renzo/Programação/csharp/testes/bin/Debug/net8.0/renzo.runtimeconfig.json
+/home/renzo/Programação/csharp/testes/bin/Debug/net8.0/renzo.dll
+/home/renzo/Programação/csharp/testes/bin/Debug/net8.0/renzo.pdb
+/home/renzo/Programação/csharp/testes/obj/Debug/net8.0/renzo.GeneratedMSBuildEditorConfig.editorconfig
+/home/renzo/Programação/csharp/testes/obj/Debug/net8.0/renzo.AssemblyInfoInputs.cache
+/home/renzo/Programação/csharp/testes/obj/Debug/net8.0/renzo.AssemblyInfo.cs
+/home/renzo/Programação/csharp/testes/obj/Debug/net8.0/renzo.csproj.CoreCompileInputs.cache
+/home/renzo/Programação/csharp/testes/obj/Debug/net8.0/renzo.dll
+/home/renzo/Programação/csharp/testes/obj/Debug/net8.0/refint/renzo.dll
+/home/renzo/Programação/csharp/testes/obj/Debug/net8.0/renzo.pdb
+/home/renzo/Programação/csharp/testes/obj/Debug/net8.0/renzo.genruntimeconfig.cache
+/home/renzo/Programação/csharp/testes/obj/Debug/net8.0/ref/renzo.dll
